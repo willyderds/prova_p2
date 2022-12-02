@@ -37,6 +37,6 @@ function listar_por_categoria(categoria) {
             console.log(p) }
     })
 }
-console.log(listar_por_categoria("Eletrônico"))
+console.log(listar_por_categoria("Eletrônico."))
 
 
